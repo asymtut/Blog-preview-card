@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify]()
+- Solution URL: [Github](https://github.com/asymtut/Blog-preview-card)
+- Live Site URL: [Netlify](https://blog-preview-card-asymtut.netlify.app/)
 
 ## My process
 
